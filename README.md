@@ -13,9 +13,12 @@
   - Email: pooyamohammadikazaj@gmail.com
   - LinkedIn: www.linkedin.com/in/pooya-mohammadi
 
-
 Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Practical-AI&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Practical-AI&theme=monokai" alt="Pooya Mohammadi's Github Steak" />
+</p>
 
 
 <!--
@@ -32,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
