@@ -18,6 +18,9 @@ Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
+</p>
 
 
 <!--
