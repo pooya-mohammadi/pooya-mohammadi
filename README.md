@@ -7,7 +7,7 @@
 
 - 🔭 I love research topics in Deep Learning
 - 🌱 I'm currently learning about Speech
-- 🔨 I’m currently working on Visual Search Engines and Cloth TryONs at [Symo](https://symolife.com/), [demo](https://demo.symolife.com)
+- 🔨 I’m currently working on Visual Search Engines and Cloth TryOns.
 - 👯 I’m looking to collaborate on Speech related Startups
 - 📫 How to reach me: 
   - Email: pooyamohammadikazaj@gmail.com
