@@ -13,7 +13,7 @@
   - Email: pooyamohammadikazaj@gmail.com
   - LinkedIn: www.linkedin.com/in/pooya-mohammadi
 
-Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`
+Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP` `RL`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
