@@ -6,14 +6,14 @@
 ## I'm an AI Researcher 
 
 - 🔭 I love research topics in Deep Learning & Deep Reinforcement Learning
-- 🌱 I'm currently learning about Speech
-- 🔨 I’m currently working on Visual Search Engines and Cloth TryOns.
-- 👯 I’m looking to collaborate on Speech related Startups
+- 🌱 I'm currently learning about GNN models
+- 🔨 I’m currently working on chatbots, voice assisstance systems, and reinforcment learning models for optimization.
+- 👯 I’m looking for PhD possitions.
 - 📫 How to reach me: 
   - Email: pooyamohammadikazaj@gmail.com
   - LinkedIn: www.linkedin.com/in/pooya-mohammadi
 
-Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`, `RL`
+Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`, `Reinforcement Learning`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
