@@ -23,6 +23,7 @@ Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`, `Reinforcement Learning`
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-mohammadi&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Pooya Mohammadi's GitHub stats" /><br />
 </p>
 
+![](https://komarev.com/ghpvc/?username=pooya-mohammadi&color=green)
 
 <!--
 **Practical-AI/Practical-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
