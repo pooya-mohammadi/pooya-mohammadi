@@ -52,7 +52,7 @@ Projects:
 [Yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam)
     
     Visualizing Yolov5's layers using GradCam 
-    ![](https://raw.githubusercontent.com/pooya-mohammadi/yolov5-gradcam/master/outputs/dog-res.jpg)
+![](https://raw.githubusercontent.com/pooya-mohammadi/yolov5-gradcam/master/outputs/dog-res.jpg)
 
 
 
