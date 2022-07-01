@@ -16,6 +16,31 @@
 
 Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`, `Reinforcement Learning`
 
+Projects:
+
+[Deep Utils](https://github.com/pooya-mohammadi/deep_utils)
+
+    This repository contains the most frequently used deep learning models and functions. In mainly constists utilities for:
+    1. vision:
+      1. yolov5
+      2. mtcnn
+      3. ultralight
+      4. deepsort
+      5. torchvision-image-classification
+    2. nlp
+      1. ner
+        1. ner-stratify
+        2. ner-augmentation -> replacement and removal augmentation
+    3. utils
+      1. box-utils 
+      2. point-utils
+    4. augmentation
+      1. Cutmix-classification
+      2. Cutmix-segmentation
+    ...
+    Deep_Utils is still under heavy development...
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
 </p>
@@ -25,18 +50,4 @@ Keywords: `Speech`, `Deep Learning`, `CV`, `AI`, `NLP`, `Reinforcement Learning`
 
 ![](https://komarev.com/ghpvc/?username=pooya-mohammadi&color=green)
 
-<!--
-**Practical-AI/Practical-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
