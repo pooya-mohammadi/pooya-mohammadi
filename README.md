@@ -5,10 +5,10 @@
 
 ## I'm an AI Researcher 
 
-- 🔭 I love research topics in Deep Learning & Deep Reinforcement Learning
-- 🌱 I'm currently learning about GNN models
-- 🔨 I’m currently working on chatbots, voice assisstance systems, and reinforcment learning models for optimization and also making youtube videos about python and AI.
-- 👯 I'm looking for a PhD position in Deep Medical or Speech related fields.
+- 🔭 I love research topics in Deep Learning, Medical science, and Deep Reinforcement Learning
+- 🌱 I'm currently learning about GNN, GAN, and Diffusion models
+- 🔨 I’m currently working on chatbots, voice assisstance systems, reinforcment learning models for optimization and also making youtube videos about python and AI.
+- 👯 I'm looking for a PhD position in Medical Science fields.
 - 📫 How to reach me: 
   - Email: pooyamohammadikazaj@gmail.com
   - LinkedIn: www.linkedin.com/in/pooya-mohammadi
