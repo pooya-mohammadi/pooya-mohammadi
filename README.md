@@ -1,6 +1,6 @@
 # Hi there, I'm Pooya Mohammadi 👋
 
-- my [LinkedIn](www.linkedin.com/in/pooya-mohammadi)
+- my [LinkedIn](https://www.linkedin.com/in/pooya-mohammadi)
 - my [YouTube Account](https://www.youtube.com/channel/UCEf5EXeme8mxmKxZ2UvJ5GQ/playlists)
 
 ## I'm an AI Researcher 
