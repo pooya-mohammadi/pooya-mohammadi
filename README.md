@@ -3,7 +3,7 @@
 - my [LinkedIn](https://www.linkedin.com/in/pooya-mohammadi)
 - my [YouTube Account](https://www.youtube.com/channel/UCEf5EXeme8mxmKxZ2UvJ5GQ/playlists)
 
-## I'm an AI Researcher 
+## I'm an AI Researcher & Developer
 
 - 🔭 I love research topics in Deep Learning, Medical science, and Deep Reinforcement Learning
 - 🌱 I'm currently learning about GNN, GAN, and Diffusion models
